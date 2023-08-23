@@ -1,6 +1,6 @@
 # expunivers
 
-A new Flutter project.
+expunivers that fetches data from NASA APIs using Riverpod as the state management.
 
 ## Getting Started
 
